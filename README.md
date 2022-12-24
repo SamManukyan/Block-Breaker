@@ -1,2 +1,2 @@
 # Block-Breaker
-Block Breaker game in Unity using C#
+Block Breaker game created using Unity and C#
